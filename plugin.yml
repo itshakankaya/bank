@@ -1,0 +1,11 @@
+name: Bank
+main: bank\main
+author: HakanKayaa
+version: 0.1
+api: [3.15.1]
+description: bank plugin for requiemnetwork
+
+commands:
+   bank:
+      description: Opens the bank
+      permission: permission.slapper.bank
